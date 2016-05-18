@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee">
+    <servlet>
+        <servlet-name>ListeningServlet</servlet-name>
+        <servlet-class>xyz.egor_d.backend.ListeningServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ListeningServlet</servlet-name>
+        <url-pattern>/223786502AAENgoWGfX8EUO85JgpxGPsY7ivnG4ddNu8</url-pattern>
+    </servlet-mapping>
+</web-app>
